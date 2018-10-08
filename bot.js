@@ -24,7 +24,7 @@ const prefix = "!!";
 /////////////////////////
 ////////////////////////
 client.on('ready', () => {
-	consol.log('hello im ready!');
+	
 	client.user.setGame('Type !!play', 'https://twitch.tv/Kareeeeeem');
 	
 });
