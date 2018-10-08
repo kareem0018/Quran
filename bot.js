@@ -24,7 +24,9 @@ const prefix = "!!";
 /////////////////////////
 ////////////////////////
 client.on('ready', () => {
-client.user.setGame(,'https://www.twitch.tv/tarikrs');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(!!play|Quran bot,'https://www.twitch.tv/v5bz%27);
+	consol.log('hello im ready!');
+	client.user.setGame('Type !!play', 'https://twitch.tv/Kareeeeeem');
+	
 });
 
 
