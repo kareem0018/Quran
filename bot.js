@@ -21,7 +21,7 @@ var fs = require('fs');
 
 client.on('ready', function(){ // Leaked by [ @Fr3on Gamer#9338 ]
     var ms = 30000 ;
-    var setGame = [`King Community `,` King Bot By Fr3on Gamer#9338 !`];
+    var setGame = [`type Q!play `,` kareem bot!`];
     var i = -1;
     var j = 0;
     setInterval(function (){
